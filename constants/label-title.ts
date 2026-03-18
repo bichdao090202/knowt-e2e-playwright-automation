@@ -17,12 +17,12 @@ export const LABELS = {
 };
 
 export const TITLES = {
-  loginPage: 'Sign In - StudyKid',
-  dashboardPage: 'Dashboard - StudyKid',
-  libraryPage: 'Library - StudyKid',
-  deckPage: 'Deck - StudyKid',
-  studyPage: 'Study Mode - StudyKid',
-  practicePage: 'Practice Mode - StudyKid',
+  loginPage: 'Sign In - Knowt',
+  dashboardPage: 'Dashboard - Knowt',
+  libraryPage: 'Library - Knowt',
+  deckPage: 'Deck - Knowt',
+  studyPage: 'Study Mode - Knowt',
+  practicePage: 'Practice Mode - Knowt',
 };
 
 export const PLACEHOLDERS = {

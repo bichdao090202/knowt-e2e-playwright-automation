@@ -1,5 +1,4 @@
 import { Page, Locator } from '@playwright/test';
-import { Logger } from '../utils/logger';
 import { LABELS } from '../constants/label-title';
 
 export class PracticePage {
@@ -33,7 +32,6 @@ export class PracticePage {
    * Navigate to practice mode
    */
   async goto(deckId: string): Promise<void> {
-    Logger.step(`Navigating to practice mode for deck: ${deckId}`);
     await this.page.goto(`/practice/${deckId}`);
   }
 
@@ -49,7 +47,6 @@ export class PracticePage {
    * Select an answer option by index
    */
   async selectAnswerOption(index: number): Promise<void> {
-    Logger.step(`Selecting answer option at index: ${index}`);
     const options = this.answerOptions.locator('[data-testid="option"]');
     await options.nth(index).click();
   }
@@ -58,7 +55,6 @@ export class PracticePage {
    * Select an answer option by text
    */
   async selectAnswerByText(answerText: string): Promise<void> {
-    Logger.step(`Selecting answer: ${answerText}`);
     await this.page.locator(`text=${answerText}`).click();
   }
 
@@ -66,7 +62,6 @@ export class PracticePage {
    * Submit answer
    */
   async submitAnswer(): Promise<void> {
-    Logger.step('Submitting answer');
     await this.submitButton.click();
   }
 
@@ -74,7 +69,6 @@ export class PracticePage {
    * Click next button
    */
   async clickNext(): Promise<void> {
-    Logger.step('Clicking next button');
     await this.nextButton.click();
   }
 
@@ -106,7 +100,6 @@ export class PracticePage {
    * Click finish button
    */
   async clickFinish(): Promise<void> {
-    Logger.step('Clicking finish button');
     await this.finishButton.click();
   }
 

@@ -1,5 +1,4 @@
 import { Page, Locator } from '@playwright/test';
-import { Logger } from '../utils/logger';
 import { LABELS, PLACEHOLDERS } from '../constants/label-title';
 
 export class LibraryPage {
@@ -27,7 +26,6 @@ export class LibraryPage {
    * Navigate to library
    */
   async goto(): Promise<void> {
-    Logger.step('Navigating to library');
     await this.page.goto('/library');
   }
 
@@ -35,17 +33,15 @@ export class LibraryPage {
    * Search for a deck
    */
   async searchDeck(deckName: string): Promise<void> {
-    Logger.step(`Searching for deck: ${deckName}`);
     await this.searchInput.clear();
     await this.searchInput.fill(deckName);
-    await this.page.waitForTimeout(500); // Wait for search results
+    await this.page.waitForTimeout(500);
   }
 
   /**
    * Click create deck button
    */
   async clickCreateDeck(): Promise<void> {
-    Logger.step('Clicking create deck button');
     await this.createDeckButton.click();
   }
 
@@ -61,7 +57,6 @@ export class LibraryPage {
    * Click on a deck
    */
   async clickDeck(deckName: string): Promise<void> {
-    Logger.step(`Clicking on deck: ${deckName}`);
     await this.decksList.locator(`text=${deckName}`).click();
   }
 
@@ -83,7 +78,6 @@ export class LibraryPage {
    * Open filter menu
    */
   async openFilter(): Promise<void> {
-    Logger.step('Opening filter menu');
     await this.filterButton.click();
   }
 
@@ -91,7 +85,6 @@ export class LibraryPage {
    * Open sort menu
    */
   async openSort(): Promise<void> {
-    Logger.step('Opening sort menu');
     await this.sortButton.click();
   }
 }

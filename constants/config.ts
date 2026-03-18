@@ -1,5 +1,5 @@
 export const CONFIG = {
-  baseUrl: process.env.BASE_URL || 'https://studykit.app/',
+  baseUrl: process.env.BASE_URL || 'https://knowt.com/',
   timeout: 30000,
   navigationTimeout: 30000,
   defaultWait: 5000,

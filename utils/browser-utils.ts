@@ -1,5 +1,4 @@
 import { Page, Browser } from '@playwright/test';
-import { Logger } from './logger';
 
 export class BrowserUtils {
   /**
@@ -8,7 +7,6 @@ export class BrowserUtils {
   static async takeScreenshot(page: Page, name: string): Promise<string> {
     const filename = `screenshots/${name}-${Date.now()}.png`;
     await page.screenshot({ path: filename });
-    Logger.info(`Screenshot saved: ${filename}`);
     return filename;
   }
 
@@ -52,7 +50,6 @@ export class BrowserUtils {
    */
   static async setViewportSize(page: Page, width: number, height: number): Promise<void> {
     await page.setViewportSize({ width, height });
-    Logger.info(`Viewport set to ${width}x${height}`);
   }
 
   /**
@@ -63,19 +60,11 @@ export class BrowserUtils {
   }
 
   /**
-   * Check if element is visible
-   */
-  static async isElementVisible(page: Page, selector: string): Promise<boolean> {
-    const element = page.locator(selector);
-    return await element.isVisible().catch(() => false);
-  }
-
-  /**
    * Get console messages
    */
   static setupConsoleListener(page: Page): void {
     page.on('console', (msg) => {
-      Logger.debug(`Console [${msg.type()}]: ${msg.text()}`);
+      //Handle console messages
     });
   }
 
@@ -84,7 +73,6 @@ export class BrowserUtils {
    */
   static setupDialogHandler(page: Page, action: 'accept' | 'dismiss' = 'accept'): void {
     page.on('dialog', async (dialog) => {
-      Logger.info(`Dialog detected: ${dialog.message()}`);
       if (action === 'accept') {
         await dialog.accept();
       } else {

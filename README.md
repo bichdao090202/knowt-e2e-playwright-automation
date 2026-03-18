@@ -1,6 +1,6 @@
-# StudyKid E2E Playwright Automation
+# Knowt E2E Playwright Automation
 
-Comprehensive end-to-end testing suite for StudyKid using Playwright. This project includes automated tests for authentication, card creation, learning workflows, and practice modules.
+Comprehensive end-to-end testing suite for Knowt using Playwright. This project includes automated tests for authentication, card creation, learning workflows, and practice modules.
 
 ## 📋 Table of Contents
 
@@ -35,7 +35,7 @@ Comprehensive end-to-end testing suite for StudyKid using Playwright. This proje
 1. Clone the repository
 ```bash
 git clone <repository-url>
-cd studykid-e2e-playwright-automation
+cd knowt-e2e-playwright-automation
 ```
 
 2. Install dependencies
@@ -51,7 +51,7 @@ npx playwright install
 ## 📁 Project Structure
 
 ```
-studykid-e2e-playwright-automation/
+knowt-e2e-playwright-automation/
 │
 ├── tests/
 │   ├── auth/
@@ -72,8 +72,6 @@ studykid-e2e-playwright-automation/
 │   └── test-base.ts
 │
 ├── utils/
-│   ├── logger.ts
-│   ├── wait.ts
 │   └── browser-utils.ts
 │
 ├── test-data/
@@ -155,3 +153,81 @@ All page objects are located in the `pages/` directory:
 
 For more help, see [CONTRIBUTING.md](CONTRIBUTING.md#troubleshooting).
 
+
+## 📋 Table of Contents
+Tool used:
+Visual Studio Code with the following extensions:
+- Playwright Test for VSCode to run and debug tests directly from the editor
+- Github Copilot Chat to generate content based on project structure and files
+- Markdown All in One for formatting markdown files
+- Prettier for code formatting
+- ESLint for code linting
+
+
+
+
+
+# Setup Guide
+
+This guide provides detailed instructions for setting up the Knowt E2E Playwright Automation project.
+
+## Prerequisites
+
+- **Node.js**: v16 or higher ([Download](https://nodejs.org/))
+- **npm**: Comes with Node.js
+- **Git**: For cloning the repository ([Download](https://git-scm.com/))
+
+## Installation Steps
+
+### 1. Clone the Repository
+
+```bash
+git clone <repository-url>
+cd knowt-e2e-playwright-automation
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+This will install:
+- `@playwright/test` - Playwright testing framework
+- All other project dependencies listed in `package.json`
+
+### 3. Install Browsers
+
+```bash
+npx playwright install
+```
+
+This installs Chromium, Firefox, and WebKit browsers used by Playwright.
+
+### 4. Verify Installation
+
+Run a quick test to verify everything is working:
+
+```bash
+npm test -- --headed --workers=1
+```
+
+
+### CI/CD Environment
+
+For GitHub Actions or other CI systems, ensure:
+1. Node.js is available
+2. Dependencies are installed via `npm install`
+3. Browsers are installed via `npx playwright install`
+4. Base URL is set for the deployment environment
+
+## Troubleshooting Setup Issues
+
+### Issue: `playwright is not recognized`
+
+**Solution**: Ensure you've run `npm install` and that `node_modules/.bin` is in your PATH.
+
+```bash
+npm install
+npx playwright --version
+```

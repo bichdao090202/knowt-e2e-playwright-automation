@@ -1,5 +1,4 @@
 import { Page, Locator } from '@playwright/test';
-import { Logger } from '../utils/logger';
 import { LABELS } from '../constants/label-title';
 
 export class StudyPage {
@@ -33,7 +32,6 @@ export class StudyPage {
    * Navigate to study mode
    */
   async goto(deckId: string): Promise<void> {
-    Logger.step(`Navigating to study mode for deck: ${deckId}`);
     await this.page.goto(`/study/${deckId}`);
   }
 
@@ -57,7 +55,6 @@ export class StudyPage {
    * Click reveal answer button
    */
   async clickReveal(): Promise<void> {
-    Logger.step('Clicking reveal answer');
     await this.revealButton.click();
   }
 
@@ -65,7 +62,6 @@ export class StudyPage {
    * Click next button
    */
   async clickNext(): Promise<void> {
-    Logger.step('Clicking next button');
     await this.nextButton.click();
   }
 
@@ -73,7 +69,6 @@ export class StudyPage {
    * Click previous button
    */
   async clickPrevious(): Promise<void> {
-    Logger.step('Clicking previous button');
     await this.prevButton.click();
   }
 
@@ -81,7 +76,6 @@ export class StudyPage {
    * Mark as easy
    */
   async markAsEasy(): Promise<void> {
-    Logger.step('Marking card as easy');
     await this.easyButton.click();
   }
 
@@ -89,7 +83,6 @@ export class StudyPage {
    * Mark as hard
    */
   async markAsHard(): Promise<void> {
-    Logger.step('Marking card as hard');
     await this.hardButton.click();
   }
 
@@ -105,7 +98,6 @@ export class StudyPage {
    * Click finish button
    */
   async clickFinish(): Promise<void> {
-    Logger.step('Clicking finish button');
     await this.finishButton.click();
   }
 

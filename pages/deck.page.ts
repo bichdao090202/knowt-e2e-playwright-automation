@@ -1,5 +1,4 @@
 import { Page, Locator } from '@playwright/test';
-import { Logger } from '../utils/logger';
 import { LABELS } from '../constants/label-title';
 
 export class DeckPage {
@@ -31,7 +30,6 @@ export class DeckPage {
    * Navigate to a specific deck
    */
   async goto(deckId: string): Promise<void> {
-    Logger.step(`Navigating to deck: ${deckId}`);
     await this.page.goto(`/deck/${deckId}`);
   }
 
@@ -55,7 +53,6 @@ export class DeckPage {
    * Click add card button
    */
   async clickAddCard(): Promise<void> {
-    Logger.step('Clicking add card button');
     await this.addCardButton.click();
   }
 
@@ -63,7 +60,6 @@ export class DeckPage {
    * Click study button
    */
   async clickStudy(): Promise<void> {
-    Logger.step('Clicking study button');
     await this.studyButton.click();
   }
 
@@ -71,7 +67,6 @@ export class DeckPage {
    * Click practice button
    */
   async clickPractice(): Promise<void> {
-    Logger.step('Clicking practice button');
     await this.practiceButton.click();
   }
 
@@ -87,7 +82,6 @@ export class DeckPage {
    * Click on a specific card
    */
   async clickCard(cardIndex: number): Promise<void> {
-    Logger.step(`Clicking on card at index: ${cardIndex}`);
     const cards = this.cardsList.locator('[data-testid="card-item"]');
     await cards.nth(cardIndex).click();
   }

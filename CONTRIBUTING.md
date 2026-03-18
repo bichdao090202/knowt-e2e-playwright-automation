@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Thank you for your interest in contributing to the StudyKid E2E Playwright Automation project! This guide will help you understand our development process and standards.
+Thank you for your interest in contributing to the Knowt E2E Playwright Automation project! This guide will help you understand our development process and standards.
 
 ## 📋 Table of Contents
 
