@@ -13,14 +13,13 @@ test.describe('Create collection Tests', () => {
     await homePage.goto('https://knowt.com/flashcards/ad6eadd3-6e45-48c1-a478-932761eb2ce0/edit');
   });
 
-  test('should navigate to library from dashboard', async () => {
+  test('create a new deck with many cards', async () => {
     // const materialsPage = await homePage.dashboardSidebar().clickMaterials();
     //  const createFlashcardModel = await materialsPage.clickCreateButton();
     // const createFlashcardFromScratchPage = await createFlashcardModel.gotoCreateFlashcard();
     const createFlashcardFromScratchPage = new CreateFlashcardFromScratchPage(homePage.page);
     const deck = mapToDeck(deckData);
     await createFlashcardFromScratchPage.createDeck(deck);
-    createFlashcardFromScratchPage.page.pause();
   });
 
   //should search for a deck in library
