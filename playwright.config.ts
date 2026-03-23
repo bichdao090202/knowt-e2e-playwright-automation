@@ -33,11 +33,24 @@ export default defineConfig({
     headless: false,
   },
 
+  expect: {
+    timeout: 10000, 
+  },
+
   /* Configure projects for major browsers */
   projects: [
     {
+      name: "setup",
+      testMatch: /.*\.setup\.ts/,
+    },
+    {
       name: 'chromium',
-      use: { ...devices['Desktop Chrome'] },
+      use: {
+        ...devices["Desktop Chrome"],
+        channel: "chrome",
+        storageState: "storageState.json",
+      },
+      // dependencies: ["setup"],
     },
 
     // {

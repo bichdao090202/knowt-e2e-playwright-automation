@@ -1,0 +1,23 @@
+{
+    "title": "Deck 1",
+    "description": "This is the description for Deck 1.",
+    "cards": [
+        {
+            "term": "What is the capital of France?",
+            "definition": "The capital of France is Paris."
+        },
+        {
+            "term": "What is the largest planet in our solar system?",
+            "definition": "The largest planet in our solar system is Jupiter."
+        },
+        {
+            "term": "Who wrote 'To Kill a Mockingbird'?",
+            "definition": "'To Kill a Mockingbird' was written by Harper Lee."
+        },
+        {
+            "term": "What is the chemical symbol for water?",
+            "definition": "The chemical symbol for water is H2O."
+        }
+
+    ]
+}

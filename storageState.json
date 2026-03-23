@@ -1,0 +1,224 @@
+{
+  "cookies": [
+    {
+      "name": "theme",
+      "value": "light",
+      "domain": "knowt.com",
+      "path": "/",
+      "expires": 1805802933.70105,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1462819499.1774266936",
+      "domain": ".knowt.com",
+      "path": "/",
+      "expires": 1782042936,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1522620277.1774266936",
+      "domain": ".knowt.com",
+      "path": "/",
+      "expires": 1808826936.40851,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m",
+      "value": "42bb28c5-2acf-4156-9d62-c056610eec9fe6091f",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "expires": 1808826941.244163,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__stripe_mid",
+      "value": "9e3494d6-4268-49a3-a7ad-94c07182210298db01",
+      "domain": ".knowt.com",
+      "path": "/",
+      "expires": 1805802937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__stripe_sid",
+      "value": "51ecab71-c0b1-4f8f-ba42-3927eabf6f4d0d0e16",
+      "domain": ".knowt.com",
+      "path": "/",
+      "expires": 1774268737,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "viewerIdv2",
+      "value": "10b82559-a2d1-474c-a58c-bddb953b9ab8",
+      "domain": "knowt.com",
+      "path": "/",
+      "expires": 1805802938.729315,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.2nd76e1v5lva4r1nfi3vku56rj.LastAuthUser",
+      "value": "bchothngc@-@gmail.com",
+      "domain": "knowt.com",
+      "path": "/",
+      "expires": 1805802942,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.2nd76e1v5lva4r1nfi3vku56rj.bchothngc%40-%40gmail.com.accessToken",
+      "value": "eyJraWQiOiJFakppb3hDOGZZaXU0T2pnSnQ5WXRZWUJcL3NwbDNMait0VkMwUUk2dEdEbz0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI4YmNkYmJlYS1mYmZkLTQ0OTItYTM3Zi04ZDAyZTgxYTA5M2QiLCJldmVudF9pZCI6ImFlYTgzN2E4LTRkNzEtNDU2ZS1iNWZkLTlkYjhiOWMzOWU0YSIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE3NzQyNjY5MjIsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC51cy1lYXN0LTEuYW1hem9uYXdzLmNvbVwvdXMtZWFzdC0xX20zUENvbmN0UiIsImV4cCI6MTc3NDMzODkyMiwiaWF0IjoxNzc0MjY2OTIyLCJqdGkiOiJlMjhlOTk0My05ZTg5LTQ5ODItYWQ0Ni1lZjgwZDVjNzQzN2QiLCJjbGllbnRfaWQiOiIybmQ3NmUxdjVsdmE0cjFuZmkzdmt1NTZyaiIsInVzZXJuYW1lIjoiYmNob3RobmdjQC1AZ21haWwuY29tIn0.IvrqGAIynoXUdwdT69zpOqE0d7tbMZq86Xmg-fs2Ytc-wYCBRd1PflYnSkO_-p6mFDOcckEfKDmitKXFrkfdjLroHUFbfzVfMBtjnKQAe8H2c2OygHv4VOx8jWyuLEo8FGwiH5IjOPGaaMrMe5SmVkHdKzyfju7VJyv5EVDottmn_Teybbgm7DgHUmFLxtl59jKbvrM7S77k9tq1AhEfQX6b2QKuPLbL4fegR-z6f-Jlsg_nlbbdpxVgRqHKTUzvp2hLuiAzgJddZZOBo276e1N1nn4fefKN8iv6xn2DhVmgKazkhViisAMguvWHZBzSbaKVbBQKZ1w6MfBm0B3bZg",
+      "domain": "knowt.com",
+      "path": "/",
+      "expires": 1805802942,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.2nd76e1v5lva4r1nfi3vku56rj.bchothngc%40-%40gmail.com.idToken",
+      "value": "eyJraWQiOiI4dzlRWGxqVTVOYTFCbHlpcFp0WFE1SVh1WmdmS0w4NE1UUmFzMTg4UUU0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI4YmNkYmJlYS1mYmZkLTQ0OTItYTM3Zi04ZDAyZTgxYTA5M2QiLCJFbWFpbCI6ImJjaG90aG5nY0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYWNjb3VudFR5cGUiOiJTdHVkZW50IiwiYmxvZ2dlciI6ImZhbHNlIiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tXC91cy1lYXN0LTFfbTNQQ29uY3RSIiwiY3VzdG9tOklEIjoiNjJiOTczYzUtZDljZS00YTM2LTllYWYtNmM2M2YyNjUwOWVjIiwiY29nbml0bzp1c2VybmFtZSI6ImJjaG90aG5nY0AtQGdtYWlsLmNvbSIsIk5hbWUiOiJEYW8gVGhpIE5nb2MgQmljaCIsImF1ZCI6IjJuZDc2ZTF2NWx2YTRyMW5maTN2a3U1NnJqIiwiZXZlbnRfaWQiOiJhZWE4MzdhOC00ZDcxLTQ1NmUtYjVmZC05ZGI4YjljMzllNGEiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTc3NDI2NjkyMiwiSUQiOiI2MmI5NzNjNS1kOWNlLTRhMzYtOWVhZi02YzYzZjI2NTA5ZWMiLCJleHAiOjE3NzQzMzg5MjIsImlhdCI6MTc3NDI2NjkyMiwiZW1haWwiOiJiY2hvdGhuZ2NAZ21haWwuY29tIn0.eIJbzqXeBYBoh4TmzbNb4mh86cDbmjEUCzbpkUuUduakZakQjDn9wbytBUUHXNZbzkLsL6FKxInk_cKYLdU5E0GkcDfG6OaivKAskimQzTVchuXjNUZKPiGLmfH3nTZb-q3klZs81YbkzLdLCNBxaaKJWLarjf0BmYZ6vU_gZ1nIWjQpnj8oM_baY6JaDDs1rW36LGWiiXZjzRM7tefdW8RQhKD9OlQJZZkV6pPY4ZZKoHWE2jIKWG4IEtOtYv1VChHgh14WyQhOOTKQ4vShrhV6rAblJqgJa55rQ1BoFX5Wi_DIyW-WKUEP0HuTmI_DLD2UCG79NehGSSrMGg5hgw",
+      "domain": "knowt.com",
+      "path": "/",
+      "expires": 1805802942,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.2nd76e1v5lva4r1nfi3vku56rj.bchothngc%40-%40gmail.com.refreshToken",
+      "value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.FwPMGoQW-x9bfpgpsXGXLXnHUGe7m1Umr3q084l24sEUy6kaD-rbO8zVLs5dkKrSQSXxELSsOD3xAy7pSfq-yc7FeH55mL5W_regM86nz5STqnItq1ZsO36pLS7g9IurceisliDJ5CCZzRzhaNxyTiWfsflfvDypX5yh0s1amUfZM75tK0j31R4HyR24V9UCBdUG1f0Fgz0pQVYG84qupgrpaSG3NUHox8NdY_LscDDZgY9xvWJCJZP_c5M9yrAUrzzYqm3OLFRQHJKlk3q_fB2UX5cktObXjoJ4GyrEcXjgr-oF8tnWxzqm-weXf6vefjoA9qnAiWNK8xg4pICKUQ.5ebmJkmDIM71Rndl.bpt3N4KjVO6gwfGla708hNDQgLM4UPo6fSfLDBkjOObjTacpu0j4GKTyx3mSkZb0dN5Ba3otqUqUqjzxwz67po6u7ONhl8NF-mqCRaCNgPxV5UGImLExfxH1FwCGBsURE8Vl349KFKglYo81ROhHT-KGmMCHRmr_lLMTHWkIn9WqRUbk8dxtjn2WC8Jx0fCffb_ZRc5yDwdrMlAwXCkAkIC6SrQ6NqTOaSJAymVCqIGWIib5t0ghbW74Nmwh_CWjMY2Xg-M5I1aB5oC3l815oIdhmfUlrbtj3PlaLXi6RDfxfr9BFjTonKNfFppN0XkELJYWFyKGa7XtnsW7WbQJaeQvg5e_kOeRQAKInw31vsfs4RaDytN_-Eno2NcHhBS2OR4mGJ-RncZ6yWmVrjRVzJWwnqHMRyytybNtFqRPw2KrFMeKakBSVdBpCmZ1Jy7THhZXZgoG89FcNhAVANYWE1jIpzCQxCJXUbxZIU3GcBhweh1uEZpT-xCiLz4Z0C87PvFZV3NQUkbeHIrIGynf1eeDOfZGsqtN1omuHlHkMkT5nxZfEK9_bGK5YvNQn-IlL-4znfirZHnzGweZlRsEZECHIQvueqKvUNLpnF1tyK5M09x1_jGrHST-LhDWk6Sis816eFGMnnbMrFM-t2rlQyLvgscc0uC7UWb0Zpd2sN41jZLjI9AWBS_0ve7gxHrYj0D3MFlZ5AWBJQv7ILlZkVoGJ5hlzspSvMAAE7tCK24C_0MQqLBYGic7hKUqpW9s_3GhQSEeyyhWanbCNsxZtoW2UKf7opCwKUnbhjUt8nbKDAvSBD9cktNMSXKWpEgK-WVBAv16x9zi4TrfmJmNJ_byw1xc3REWkTktlS3JwhnFJOti1U_SkmxOW77B2CE_vWVdSfjdgt1EKFXkEAWL2oMgwADQFirjpT8LisA_l-JzXpPaXN6bPtJSBjXMqAylZkTqHcyepphcQcOjTv5bLmll9ntKRwpgT5-XPrRRprnfkCpSI6aX3yV1AVk_f8ZF8QPZHaANW8M2CN2FSGQx9Vab4Y6eVAytUnDGHuoxv6sHhSsn3ay70RwopVMS-QlllqNdL4K_IFwx_rcr2vPEgAugcpiTjuPv6DJk7bBJ2eX3mhLihUu5L4wqEKSniFlLB38zKB9kG2b-bYcZsulah0HTWz-8d86sMXBPeRhqk0cGYjVC3iPn2eD52Cko5s0lcxToiVd3uU6dvjde-7xrBiCZRmxXm_6qyiamixzRBs4bA4qHoy5CwssjzwHCjQ1sqe1Tcd13jk2Kt6P2StLBlYgltkhXvbw.diQm2Cm9kG-0J-gqtnSj0w",
+      "domain": "knowt.com",
+      "path": "/",
+      "expires": 1805802942,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.2nd76e1v5lva4r1nfi3vku56rj.bchothngc%40-%40gmail.com.signInDetails",
+      "value": "{%22loginId%22:%22bchothngc@-@gmail.com%22%2C%22authFlowType%22:%22USER_SRP_AUTH%22}",
+      "domain": "knowt.com",
+      "path": "/",
+      "expires": 1805802942,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.2nd76e1v5lva4r1nfi3vku56rj.bchothngc%40-%40gmail.com.clockDrift",
+      "value": "-20877",
+      "domain": "knowt.com",
+      "path": "/",
+      "expires": 1805802942,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mp_34142dcacfcd7635e660802a2743e57c_mixpanel",
+      "value": "%7B%22distinct_id%22%3A%2262b973c5-d9ce-4a36-9eaf-6c63f26509ec%22%2C%22%24device_id%22%3A%22ecd753bc-8554-4357-8fac-830574d5eefc%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%2C%22%24user_id%22%3A%2262b973c5-d9ce-4a36-9eaf-6c63f26509ec%22%7D",
+      "domain": ".knowt.com",
+      "path": "/",
+      "expires": 1805802946,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_MCTY6Y9NXZ",
+      "value": "GS2.1.s1774266936$o1$g1$t1774266947$j49$l0$h1473608361",
+      "domain": ".knowt.com",
+      "path": "/",
+      "expires": 1808826947.545513,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GCLB",
+      "value": "\"244c769d835317f1\"",
+      "domain": "statsig.knowt.com",
+      "path": "/",
+      "expires": 1774266948.603402,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://knowt.com",
+      "localStorage": [
+        {
+          "name": "__mpq_34142dcacfcd7635e660802a2743e57c_ev",
+          "value": "[{\"id\":\"2x318eccjq20vrzt\",\"flushAfter\":1774266956447,\"payload\":{\"event\":\"$identify\",\"properties\":{\"$os\":\"Windows\",\"$browser\":\"Chrome\",\"$current_url\":\"https://knowt.com/\",\"$browser_version\":145,\"$screen_height\":720,\"$screen_width\":1280,\"mp_lib\":\"web\",\"$lib_version\":\"2.76.0\",\"$insert_id\":\"ds9giykcnzom09cb\",\"time\":1774266946.447,\"distinct_id\":\"62b973c5-d9ce-4a36-9eaf-6c63f26509ec\",\"$device_id\":\"ecd753bc-8554-4357-8fac-830574d5eefc\",\"$initial_referrer\":\"$direct\",\"$initial_referring_domain\":\"$direct\",\"$user_id\":\"62b973c5-d9ce-4a36-9eaf-6c63f26509ec\",\"$anon_distinct_id\":\"$device:ecd753bc-8554-4357-8fac-830574d5eefc\",\"token\":\"34142dcacfcd7635e660802a2743e57c\"}}}]"
+        },
+        {
+          "name": "theme",
+          "value": "light"
+        },
+        {
+          "name": "banners-last-updated",
+          "value": "{\"value\":\"[]\",\"expiry\":1774270537617}"
+        },
+        {
+          "name": "statsig.last_modified_time.evaluations",
+          "value": "{\"statsig.cached.evaluations.2457854417\":1774266947114}"
+        },
+        {
+          "name": "currentUser",
+          "value": "{\"user\":{\"Email\":\"bchothngc@gmail.com\",\"org\":null,\"accountType\":\"Student\",\"ID\":\"62b973c5-d9ce-4a36-9eaf-6c63f26509ec\",\"elID\":null,\"clID\":null,\"isSSOChecked\":null,\"timeZone\":\"Asia/Bangkok\",\"referral\":\"SCHOOL\",\"Name\":\"Dao Thi Ngoc Bich\",\"pictureUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocJ9MU5Xq6SA6iYZsQ8oLX4LjrGuXfY5IQEWWtlnFHdQx3Yqxpvq=s96-c\",\"username\":\"ngocbich1234\",\"views\":null,\"birthday\":\"2002-03-13\",\"phone\":null,\"hideSensitiveInfo\":null,\"noteSidebarWidth\":null,\"created\":1773427215,\"lastLogIn\":1774266923,\"lastNotified\":null,\"answerSide\":null,\"numFollowers\":0,\"numFollowing\":0,\"ref_v2\":\"sl96ua\",\"refFrom_v2\":\"\",\"refList_v2\":null,\"verified\":null,\"bio\":null,\"socials\":null,\"cover\":null,\"schoolId\":null,\"grade\":null,\"rating\":null,\"ratingCount\":null,\"customerId\":null,\"sharedCustomerId\":null,\"sharedSubExpiry\":null,\"subscriptions\":null,\"alerts\":\"{\\\"done\\\":[\\\"privacy-agreement-march-2024\\\",\\\"student-trial-2024\\\",\\\"personalized-onboarding\\\",\\\"experience\\\",\\\"first-study-time\\\"],\\\"todo\\\":[{\\\"eventName\\\":\\\"gamification-intro\\\",\\\"visitCount\\\":1}]}\",\"subscriptionType\":null,\"stripeVerifyTime\":null,\"stripeTrialTime\":null,\"cancelPromoTime\":null,\"deleteReq\":null,\"ai\":{\"curPrompts\":6,\"curPeriodEnd\":1776108842,\"videos\":null,\"pdfs\":null,\"nTests\":0,\"nSets\":0,\"chats\":0,\"explain\":0,\"frq\":0,\"cost\":0,\"mSets\":0,\"mNotes\":0,\"tools\":0,\"assignments\":0,\"scans\":0,\"aiV\":0,\"mock\":0,\"call\":0,\"podcast\":0,\"currDay\":{\"date\":\"2026-03-18\",\"prompts\":1,\"videos\":0,\"pdfs\":0,\"nTests\":0,\"nSets\":0,\"chats\":0,\"explain\":0,\"frq\":0,\"mSets\":0,\"mNotes\":0,\"tools\":0,\"assignments\":0,\"scans\":0,\"aiV\":0,\"mock\":0,\"call\":0,\"podcast\":0},\"prevDay\":null},\"profileColor\":null,\"privacyAck\":null,\"blogger\":null,\"examHistory\":null,\"usernameChange\":0,\"signInType\":\"EMAIL\",\"invites\":null,\"classes\":{\"enrolled\":[],\"teacher\":[],\"invited\":[]},\"migKey\":null,\"signInTypes\":[\"EMAIL\",\"GOOGLE\"],\"orgPlanType\":null,\"orgPlanCreated\":null,\"lastOrgPlanUpdated\":null,\"favTools\":null,\"lastStreakDate\":null,\"xpSyncDate\":\"2026-03-23\",\"xp\":209,\"level\":3,\"streak\":0,\"longPauseEnd\":null,\"coins\":55,\"featuredBadges\":[],\"records\":{\"xpEarned\":\"134:2026-03-14\",\"longestStreak\":\"4:2026-03-18\",\"badgesEarned\":\"1:2026-03-14\",\"coinsEarned\":\"25:2026-03-16\"},\"inventory\":{\"freezes\":0,\"revivals\":0,\"pauses\":4,\"icon\":\"ICON_DEFAULT\",\"features\":[],\"gamifySubExpiry\":null,\"gamifySubStoreProduct\":null,\"merchReward\":null},\"gameBlock\":null,\"lastAdWatch\":null,\"lastTimeZoneChange\":1773427221,\"notifSettings\":{\"emailSettings\":{\"disabled\":[],\"tokens\":null,\"reminderTime\":null},\"pushSettings\":{\"disabled\":[],\"tokens\":[],\"reminderTime\":null},\"gamifySettings\":{\"level\":true,\"streak\":true,\"badges\":true}},\"stoppedNotifications\":null,\"inactiveUser\":true,\"promoCodes\":null,\"sentPromotions\":null,\"autocompleteSettings\":null,\"orgRequests\":null,\"orgReqTime\":null,\"emailsSent\":null,\"lastSent\":null,\"isSidebarExpanded\":true,\"flagInfo\":null,\"scanSolveType\":null,\"tenantId\":null,\"rosterSync\":null,\"lastRosterSync\":null,\"appVersion\":null,\"chatSettings\":null,\"standardSets\":null,\"country\":null,\"state\":null},\"serverSyncTime\":1774266925,\"signInType\":\"EMAIL\"}"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"creationTimeMs\":1774266936390},\"expires\":1782042936390}}"
+        },
+        {
+          "name": "statsig.stable_id.4165852365",
+          "value": "\"7db338df-ad0e-4e19-9a85-66029a18d091\""
+        },
+        {
+          "name": "statsig.cached.evaluations.2457854417",
+          "value": "{\"source\":\"Network\",\"data\":\"{\\\"feature_gates\\\":{\\\"207742762\\\":{\\\"name\\\":\\\"207742762\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"6i1gEHHuOy74KUXgA7uoMR\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"279198201\\\":{\\\"name\\\":\\\"279198201\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"FtlUryAuFZrEPi5CL8AJJ\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"807124009\\\":{\\\"name\\\":\\\"807124009\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"4NJDmQvds5jipgqoourF2W\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"1156316162\\\":{\\\"name\\\":\\\"1156316162\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"5PhCouvNFH7cYiWJERPUsP\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"1239154112\\\":{\\\"name\\\":\\\"1239154112\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"21Lo137omqYb3oAxRKcbsw:0.00:1\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"1688141540\\\":{\\\"name\\\":\\\"1688141540\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"3sM0G8hEu7dUH24SMAB0ix\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"1909137908\\\":{\\\"name\\\":\\\"1909137908\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"70u1JBle9R27RmlpmQoePd:100.00:2\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"2363619223\\\":{\\\"name\\\":\\\"2363619223\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"6osjbQ352TrjHUU9ioHV4K\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"2457629499\\\":{\\\"name\\\":\\\"2457629499\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"1nCcJAD22OBWEWnosE2W9X\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"2578366232\\\":{\\\"name\\\":\\\"2578366232\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"3017299121\\\":{\\\"name\\\":\\\"3017299121\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"6KVVNqKpY4VyeQSr9yklc:0.00:3\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"3186839196\\\":{\\\"name\\\":\\\"3186839196\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"ccx0sChxzlMtHZCfstRwx\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"3317023405\\\":{\\\"name\\\":\\\"3317023405\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"9B6iU4FtBT9q5BaAPR8VX:100.00:6\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"3383395344\\\":{\\\"name\\\":\\\"3383395344\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"50CZC9zLtSlVvbwTu3pjR9:100.00:1\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"3509659511\\\":{\\\"name\\\":\\\"3509659511\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"3iDNPK0BEImPct7gRivkMo:0.00:2\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"3517880158\\\":{\\\"name\\\":\\\"3517880158\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"263np9ICUekZYIZ5JiaSm0\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]}},\\\"dynamic_configs\\\":{\\\"3556498\\\":{\\\"name\\\":\\\"3556498\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"744973471\\\":{\\\"name\\\":\\\"744973471\\\",\\\"value\\\":{\\\"ai_usage_limits\\\":{\\\"BASIC\\\":{\\\"prompts\\\":0,\\\"videos\\\":0,\\\"pdfs\\\":0,\\\"nTests\\\":0,\\\"nSets\\\":0,\\\"mSets\\\":0,\\\"mNotes\\\":0,\\\"scans\\\":0,\\\"aiV\\\":0,\\\"tools\\\":0,\\\"assignments\\\":0,\\\"chats\\\":0,\\\"explain\\\":0,\\\"frq\\\":0,\\\"mock\\\":0},\\\"LIMITLESS\\\":{\\\"prompts\\\":10000,\\\"videos\\\":200,\\\"pdfs\\\":200,\\\"nTests\\\":500,\\\"nSets\\\":500,\\\"mSets\\\":200,\\\"mNotes\\\":200,\\\"scans\\\":1000,\\\"aiV\\\":100,\\\"tools\\\":2000,\\\"assignments\\\":100,\\\"chats\\\":1000,\\\"explain\\\":20000,\\\"frq\\\":1000,\\\"mock\\\":100},\\\"TEACHER_LIMITLESS\\\":{\\\"prompts\\\":10000,\\\"videos\\\":200,\\\"pdfs\\\":200,\\\"nTests\\\":500,\\\"nSets\\\":500,\\\"mSets\\\":200,\\\"mNotes\\\":200,\\\"scans\\\":1000,\\\"aiV\\\":100,\\\"tools\\\":2000,\\\"assignments\\\":100,\\\"chats\\\":1000,\\\"explain\\\":20000,\\\"frq\\\":1000,\\\"mock\\\":100}},\\\"welcome_offer_params\\\":{\\\"title\\\":\\\"Get a 3 Day Pass for unlimited access\\\",\\\"cta\\\":\\\"Get 3 day pass\\\",\\\"graphicVariant\\\":1,\\\"trialDays\\\":[3,7]},\\\"paywall_popup\\\":{\\\"annual_tag\\\":\\\"Free Merch\\\",\\\"cta\\\":\\\"Get 3 day pass\\\"},\\\"Discounted Welcome Offers Title\\\":[{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_120\\\",\\\"title\\\":\\\"No huzz for that fit. Subscribe for free merch.\\\",\\\"subtitle\\\":\\\"Choose between hoodies, crewnecks, caps and shirts after purchase.\\\",\\\"buttonText\\\":\\\"Get free merch\\\",\\\"offerNumber\\\":1,\\\"delay\\\":24},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_96\\\",\\\"title\\\":\\\"Get 20% off\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 20% off\\\",\\\"offerNumber\\\":2,\\\"delay\\\":24},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_60\\\",\\\"title\\\":\\\"Get 50% off\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 50% off\\\",\\\"offerNumber\\\":3,\\\"delay\\\":24},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_36\\\",\\\"title\\\":\\\"Get 70% off\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 70% off\\\",\\\"offerNumber\\\":4,\\\"delay\\\":24}]},\\\"rule_id\\\":\\\"5DgK1xhGrDY5ZfqDLNNYUp:override\\\",\\\"group\\\":\\\"5DgK1xhGrDY5ZfqDLNNYUp:override\\\",\\\"group_name\\\":\\\"Merch Tag I Day CTA\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"is_in_layer\\\":true,\\\"explicit_parameters\\\":[\\\"paywall_popup\\\"],\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"3517880158\\\",\\\"gateValue\\\":\\\"true\\\",\\\"ruleID\\\":\\\"263np9ICUekZYIZ5JiaSm0\\\"}]},\\\"868311801\\\":{\\\"name\\\":\\\"868311801\\\",\\\"value\\\":{\\\"exam_higher_price_variant\\\":1},\\\"rule_id\\\":\\\"6ZQxE4e6xafUOn2jrG4mdS\\\",\\\"group\\\":\\\"6ZQxE4e6xafUOn2jrG4mdS\\\",\\\"group_name\\\":\\\"Higher Pricing\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"is_experiment_active\\\":true,\\\"is_user_in_experiment\\\":true,\\\"secondary_exposures\\\":[]},\\\"1017808703\\\":{\\\"name\\\":\\\"1017808703\\\",\\\"value\\\":{\\\"ai_usage_limits\\\":{\\\"BASIC\\\":{\\\"prompts\\\":0,\\\"videos\\\":0,\\\"pdfs\\\":0,\\\"nTests\\\":0,\\\"nSets\\\":0,\\\"mSets\\\":0,\\\"mNotes\\\":0,\\\"scans\\\":0,\\\"aiV\\\":0,\\\"tools\\\":0,\\\"assignments\\\":0,\\\"chats\\\":0,\\\"explain\\\":0,\\\"frq\\\":0,\\\"mock\\\":0},\\\"LIMITLESS\\\":{\\\"prompts\\\":10000,\\\"videos\\\":200,\\\"pdfs\\\":200,\\\"nTests\\\":500,\\\"nSets\\\":500,\\\"mSets\\\":200,\\\"mNotes\\\":200,\\\"scans\\\":1000,\\\"aiV\\\":100,\\\"tools\\\":2000,\\\"assignments\\\":100,\\\"chats\\\":1000,\\\"explain\\\":20000,\\\"frq\\\":1000,\\\"mock\\\":100},\\\"TEACHER_LIMITLESS\\\":{\\\"prompts\\\":10000,\\\"videos\\\":200,\\\"pdfs\\\":200,\\\"nTests\\\":500,\\\"nSets\\\":500,\\\"mSets\\\":200,\\\"mNotes\\\":200,\\\"scans\\\":1000,\\\"aiV\\\":100,\\\"tools\\\":2000,\\\"assignments\\\":100,\\\"chats\\\":1000,\\\"explain\\\":20000,\\\"frq\\\":1000,\\\"mock\\\":100}},\\\"welcome_offer_params\\\":{\\\"title\\\":\\\"Unlock Your Free {{days}}-Day Trial Today\\\",\\\"cta\\\":\\\"Get {{days}} day pass\\\",\\\"graphicVariant\\\":3,\\\"trialDays\\\":[7,14]},\\\"paywall_popup\\\":{\\\"annual_tag\\\":\\\"Free Hoodie\\\",\\\"cta\\\":\\\"Start Free Trial\\\"},\\\"Discounted Welcome Offers Title\\\":[{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_120\\\",\\\"title\\\":\\\"No huzz for that fit. Subscribe for free merch.\\\",\\\"subtitle\\\":\\\"Choose between hoodies, crewnecks, caps and shirts after purchase.\\\",\\\"buttonText\\\":\\\"Get free merch\\\",\\\"offerNumber\\\":1,\\\"delay\\\":24},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_96\\\",\\\"title\\\":\\\"Get 20% off\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 20% off\\\",\\\"offerNumber\\\":2,\\\"delay\\\":24},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_60\\\",\\\"title\\\":\\\"Get 50% off\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 50% off\\\",\\\"offerNumber\\\":3,\\\"delay\\\":24},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_36\\\",\\\"title\\\":\\\"Get 70% off\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 70% off\\\",\\\"offerNumber\\\":4,\\\"delay\\\":24}]},\\\"rule_id\\\":\\\"4x9XC8fE9ID5NeKzuU3KXv:override\\\",\\\"group\\\":\\\"4x9XC8fE9ID5NeKzuU3KXv:override\\\",\\\"group_name\\\":\\\"Former paywall like variant\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"is_in_layer\\\":true,\\\"explicit_parameters\\\":[\\\"welcome_offer_params\\\"],\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"3517880158\\\",\\\"gateValue\\\":\\\"true\\\",\\\"ruleID\\\":\\\"263np9ICUekZYIZ5JiaSm0\\\"}]},\\\"2053416307\\\":{\\\"name\\\":\\\"2053416307\\\",\\\"value\\\":{\\\"welcome_message\\\":\\\"wowww\\\"},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"2269717175\\\":{\\\"name\\\":\\\"2269717175\\\",\\\"value\\\":{\\\"Invite Share Subscription Months\\\":3},\\\"rule_id\\\":\\\"launchedGroup\\\",\\\"group\\\":\\\"launchedGroup\\\",\\\"group_name\\\":\\\"3\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[]},\\\"2376139037\\\":{\\\"name\\\":\\\"2376139037\\\",\\\"value\\\":{\\\"subscription\\\":{\\\"type\\\":\\\"LIMITLESS\\\",\\\"student_title\\\":\\\"Student Ultra\\\",\\\"teacher_title\\\":\\\"Teacher Ultra\\\",\\\"plans\\\":[{\\\"period\\\":\\\"Week\\\",\\\"teacher_price_id\\\":\\\"\\\",\\\"student_price_id\\\":\\\"price_1SxD2vKXJM8qxW7RZGdSDIeB\\\",\\\"teacher_amount\\\":9.99,\\\"student_amount\\\":9.99,\\\"trial_variants\\\":[],\\\"additional_variants\\\":[{\\\"student_price_id\\\":\\\"price_1T6tfeKXJM8qxW7RI3JaPWy0\\\",\\\"student_amount\\\":19.99,\\\"discount_percent\\\":0}]},{\\\"period\\\":\\\"Month\\\",\\\"teacher_price_id\\\":\\\"price_1RoRW1KXJM8qxW7Ry7jQ6wAM\\\",\\\"student_price_id\\\":\\\"price_1T4lPlKXJM8qxW7RxodLQTap\\\",\\\"teacher_amount\\\":19.99,\\\"student_amount\\\":24.99,\\\"trial_variants\\\":[0,3,7,14],\\\"additional_variants\\\":[{\\\"student_price_id\\\":\\\"price_1T6tfkKXJM8qxW7RFu7YPlb4\\\",\\\"student_amount\\\":49.99,\\\"discount_percent\\\":0}]},{\\\"period\\\":\\\"Year\\\",\\\"teacher_price_id\\\":\\\"price_1RoRW8KXJM8qxW7RWhPW2axV\\\",\\\"student_price_id\\\":\\\"price_1T4lPgKXJM8qxW7RrYX3elWE\\\",\\\"teacher_amount\\\":119.99,\\\"student_amount\\\":149.99,\\\"trial_variants\\\":[0,3,7,14],\\\"additional_variants\\\":[{\\\"student_price_id\\\":\\\"price_1RJLI0KXJM8qxW7RbH4jNR1X\\\",\\\"student_amount\\\":35.99,\\\"discount_percent\\\":70},{\\\"student_price_id\\\":\\\"price_1QkW5DKXJM8qxW7RqbsWDf2L\\\",\\\"student_amount\\\":59.99,\\\"discount_percent\\\":50},{\\\"student_price_id\\\":\\\"price_1Pdb4ZKXJM8qxW7R3xibzqn5\\\",\\\"student_amount\\\":95.99,\\\"discount_percent\\\":20},{\\\"student_price_id\\\":\\\"price_1RoRVRKXJM8qxW7RN5r6NN3d\\\",\\\"student_amount\\\":119.99,\\\"discount_percent\\\":20},{\\\"student_price_id\\\":\\\"price_1T6tfpKXJM8qxW7RQwvPqMNu\\\",\\\"student_amount\\\":249.99,\\\"discount_percent\\\":0}]}]}},\\\"rule_id\\\":\\\"NmhFmzlniB9uNJhwrMVHJ\\\",\\\"group\\\":\\\"NmhFmzlniB9uNJhwrMVHJ\\\",\\\"is_device_based\\\":false,\\\"passed\\\":true,\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"2488754414\\\":{\\\"name\\\":\\\"2488754414\\\",\\\"value\\\":{\\\"active_mode\\\":\\\"none\\\",\\\"startedAt\\\":1708614113,\\\"endAt\\\":1708314113,\\\"modes\\\":[\\\"none\\\",\\\"general\\\",\\\"security\\\"]},\\\"rule_id\\\":\\\"4jC45I9I85sNuRYMJQdlPv\\\",\\\"group\\\":\\\"4jC45I9I85sNuRYMJQdlPv\\\",\\\"is_device_based\\\":false,\\\"passed\\\":true,\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"2672440868\\\":{\\\"name\\\":\\\"2672440868\\\",\\\"value\\\":{\\\"isUpgradeAvailable\\\":false,\\\"teacherPriceId\\\":\\\"price_1QkUBtKXJM8qxW7Rfp15LrX9\\\",\\\"studentPriceId\\\":\\\"price_1QkW5DKXJM8qxW7RqbsWDf2L\\\"},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"3207374227\\\":{\\\"name\\\":\\\"3207374227\\\",\\\"value\\\":{\\\"discount_welcome_offers\\\":[{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_60\\\",\\\"title\\\":\\\"50% off - one-time finals deal. Ends when the panic starts\\\",\\\"subtitle\\\":\\\"Get unlimited access to Knowt Ultra... even in your broke era.\\\",\\\"buttonText\\\":\\\"Get 50% off\\\",\\\"offerNumber\\\":3,\\\"delay\\\":24,\\\"confirm\\\":true},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_36\\\",\\\"title\\\":\\\" 70% off NOW!  Act before it's too late {{name}}.\\\",\\\"subtitle\\\":\\\"Don’t regret skipping this.  Knowt Ultra will literally never be this cheap again.\\\",\\\"buttonText\\\":\\\"Get 70% off\\\",\\\"offerNumber\\\":4,\\\"delay\\\":24,\\\"confirm\\\":true}]},\\\"rule_id\\\":\\\"launchedGroup\\\",\\\"group\\\":\\\"launchedGroup\\\",\\\"group_name\\\":\\\"v4 - 50 - 70\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[]},\\\"3215886274\\\":{\\\"name\\\":\\\"3215886274\\\",\\\"value\\\":{\\\"ai_usage_limits\\\":{\\\"BASIC\\\":{\\\"prompts\\\":0,\\\"videos\\\":0,\\\"pdfs\\\":0,\\\"nTests\\\":0,\\\"nSets\\\":0,\\\"mSets\\\":0,\\\"mNotes\\\":0,\\\"scans\\\":0,\\\"aiV\\\":0,\\\"tools\\\":0,\\\"assignments\\\":0,\\\"chats\\\":0,\\\"explain\\\":0,\\\"frq\\\":0,\\\"mock\\\":0},\\\"LIMITLESS\\\":{\\\"prompts\\\":10000,\\\"videos\\\":200,\\\"pdfs\\\":200,\\\"nTests\\\":500,\\\"nSets\\\":500,\\\"mSets\\\":200,\\\"mNotes\\\":200,\\\"scans\\\":1000,\\\"aiV\\\":100,\\\"tools\\\":2000,\\\"assignments\\\":100,\\\"chats\\\":1000,\\\"explain\\\":20000,\\\"frq\\\":1000,\\\"mock\\\":100},\\\"TEACHER_LIMITLESS\\\":{\\\"prompts\\\":10000,\\\"videos\\\":200,\\\"pdfs\\\":200,\\\"nTests\\\":500,\\\"nSets\\\":500,\\\"mSets\\\":200,\\\"mNotes\\\":200,\\\"scans\\\":1000,\\\"aiV\\\":100,\\\"tools\\\":2000,\\\"assignments\\\":100,\\\"chats\\\":1000,\\\"explain\\\":20000,\\\"frq\\\":1000,\\\"mock\\\":100}},\\\"welcome_offer_params\\\":{\\\"title\\\":\\\"Get a 3 Day Pass for unlimited access\\\",\\\"cta\\\":\\\"Get 3 day pass\\\",\\\"graphicVariant\\\":1,\\\"trialDays\\\":[3,7]},\\\"paywall_popup\\\":{\\\"annual_tag\\\":\\\"Free Hoodie\\\",\\\"cta\\\":\\\"Start Free Trial\\\"},\\\"Discounted Welcome Offers Title\\\":[{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_120\\\",\\\"title\\\":\\\"No huzz for that fit. Subscribe for free merch.\\\",\\\"subtitle\\\":\\\"Choose between hoodies, crewnecks, caps and shirts after purchase.\\\",\\\"buttonText\\\":\\\"Get free merch\\\",\\\"offerNumber\\\":1,\\\"delay\\\":24},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_96\\\",\\\"title\\\":\\\"Get 20% off\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 20% off\\\",\\\"offerNumber\\\":2,\\\"delay\\\":24},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_60\\\",\\\"title\\\":\\\"Get 50% off\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 50% off\\\",\\\"offerNumber\\\":3,\\\"delay\\\":24},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_36\\\",\\\"title\\\":\\\"Get 70% off\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 70% off\\\",\\\"offerNumber\\\":4,\\\"delay\\\":24}]},\\\"rule_id\\\":\\\"launchedGroup\\\",\\\"group\\\":\\\"launchedGroup\\\",\\\"group_name\\\":\\\"limit of 0\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"is_in_layer\\\":true,\\\"explicit_parameters\\\":[\\\"ai_usage_limits\\\"],\\\"secondary_exposures\\\":[]},\\\"3822608008\\\":{\\\"name\\\":\\\"3822608008\\\",\\\"value\\\":{\\\"paywall_secondary_discount_offers\\\":{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_60\\\",\\\"title\\\":\\\"Get 50% off if you subscribe right now!\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 50% off\\\",\\\"offerNumber\\\":3,\\\"delay\\\":24,\\\"disableCloseButtonDelay\\\":true,\\\"isPaywallSecondaryDiscount\\\":true}},\\\"rule_id\\\":\\\"launchedGroup\\\",\\\"group\\\":\\\"launchedGroup\\\",\\\"group_name\\\":\\\"50\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[]},\\\"4192662111\\\":{\\\"name\\\":\\\"4192662111\\\",\\\"value\\\":{\\\"resubscribe_offers\\\":[{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_60\\\",\\\"title\\\":\\\"Get 50% off if you subscribe right now!\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 50% off\\\",\\\"offerNumber\\\":3,\\\"delay\\\":24,\\\"confirm\\\":true},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_36\\\",\\\"title\\\":\\\"70% off NOW!  We’ll never be this unhinged again.\\\",\\\"subtitle\\\":\\\"Don’t regret skipping this.  Knowt Ultra will literally never be this cheap again.\\\",\\\"buttonText\\\":\\\"Get 70% off\\\",\\\"offerNumber\\\":4,\\\"delay\\\":24,\\\"confirm\\\":true}]},\\\"rule_id\\\":\\\"launchedGroup\\\",\\\"group\\\":\\\"launchedGroup\\\",\\\"group_name\\\":\\\"v2 - 50 - 70\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[]}},\\\"layer_configs\\\":{\\\"1987365622\\\":{\\\"name\\\":\\\"1987365622\\\",\\\"value\\\":{\\\"ai_usage_limits\\\":{\\\"BASIC\\\":{\\\"prompts\\\":0,\\\"videos\\\":0,\\\"pdfs\\\":0,\\\"nTests\\\":0,\\\"nSets\\\":0,\\\"mSets\\\":0,\\\"mNotes\\\":0,\\\"scans\\\":0,\\\"aiV\\\":0,\\\"tools\\\":0,\\\"assignments\\\":0,\\\"chats\\\":0,\\\"explain\\\":0,\\\"frq\\\":0,\\\"mock\\\":0},\\\"LIMITLESS\\\":{\\\"prompts\\\":10000,\\\"videos\\\":200,\\\"pdfs\\\":200,\\\"nTests\\\":500,\\\"nSets\\\":500,\\\"mSets\\\":200,\\\"mNotes\\\":200,\\\"scans\\\":1000,\\\"aiV\\\":100,\\\"tools\\\":2000,\\\"assignments\\\":100,\\\"chats\\\":1000,\\\"explain\\\":20000,\\\"frq\\\":1000,\\\"mock\\\":100},\\\"TEACHER_LIMITLESS\\\":{\\\"prompts\\\":10000,\\\"videos\\\":200,\\\"pdfs\\\":200,\\\"nTests\\\":500,\\\"nSets\\\":500,\\\"mSets\\\":200,\\\"mNotes\\\":200,\\\"scans\\\":1000,\\\"aiV\\\":100,\\\"tools\\\":2000,\\\"assignments\\\":100,\\\"chats\\\":1000,\\\"explain\\\":20000,\\\"frq\\\":1000,\\\"mock\\\":100}},\\\"welcome_offer_params\\\":{\\\"title\\\":\\\"Unlock Your Free {{days}}-Day Trial Today\\\",\\\"cta\\\":\\\"Get {{days}} day pass\\\",\\\"graphicVariant\\\":3,\\\"trialDays\\\":[7,14]},\\\"paywall_popup\\\":{\\\"annual_tag\\\":\\\"Free Hoodie\\\",\\\"cta\\\":\\\"Start Free Trial\\\"},\\\"Discounted Welcome Offers Title\\\":[{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_120\\\",\\\"title\\\":\\\"No huzz for that fit. Subscribe for free merch.\\\",\\\"subtitle\\\":\\\"Choose between hoodies, crewnecks, caps and shirts after purchase.\\\",\\\"buttonText\\\":\\\"Get free merch\\\",\\\"offerNumber\\\":1,\\\"delay\\\":24},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_96\\\",\\\"title\\\":\\\"Get 20% off\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 20% off\\\",\\\"offerNumber\\\":2,\\\"delay\\\":24},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_60\\\",\\\"title\\\":\\\"Get 50% off\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 50% off\\\",\\\"offerNumber\\\":3,\\\"delay\\\":24},{\\\"priceId\\\":\\\"LIMITLESS_YEARLY_36\\\",\\\"title\\\":\\\"Get 70% off\\\",\\\"subtitle\\\":\\\"Get unlimited AI with Knowt Ultra for a fraction of the cost.\\\",\\\"buttonText\\\":\\\"Get 70% off\\\",\\\"offerNumber\\\":4,\\\"delay\\\":24}]},\\\"rule_id\\\":\\\"4x9XC8fE9ID5NeKzuU3KXv:override\\\",\\\"group\\\":\\\"4x9XC8fE9ID5NeKzuU3KXv:override\\\",\\\"group_name\\\":\\\"Former paywall like variant\\\",\\\"allocated_experiment_name\\\":\\\"1017808703\\\",\\\"is_device_based\\\":false,\\\"is_experiment_active\\\":false,\\\"explicit_parameters\\\":[\\\"welcome_offer_params\\\"],\\\"is_user_in_experiment\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"3517880158\\\",\\\"gateValue\\\":\\\"true\\\",\\\"ruleID\\\":\\\"263np9ICUekZYIZ5JiaSm0\\\"}],\\\"undelegated_secondary_exposures\\\":[{\\\"gate\\\":\\\"3517880158\\\",\\\"gateValue\\\":\\\"true\\\",\\\"ruleID\\\":\\\"263np9ICUekZYIZ5JiaSm0\\\"}]}},\\\"sdkParams\\\":{},\\\"has_updates\\\":true,\\\"generator\\\":\\\"scrapi-nest\\\",\\\"time\\\":1773956129449,\\\"company_lcut\\\":1773956129449,\\\"evaluated_keys\\\":{\\\"userID\\\":\\\"62b973c5-d9ce-4a36-9eaf-6c63f26509ec\\\",\\\"stableID\\\":\\\"7db338df-ad0e-4e19-9a85-66029a18d091\\\"},\\\"hash_used\\\":\\\"djb2\\\",\\\"derived_fields\\\":{\\\"ip\\\":\\\"113.161.60.61\\\",\\\"country\\\":\\\"VN\\\",\\\"appVersion\\\":\\\"2026.01.24.1\\\",\\\"app_version\\\":\\\"2026.01.24.1\\\",\\\"browserName\\\":\\\"Chrome\\\",\\\"browserVersion\\\":\\\"145.0.0\\\",\\\"osName\\\":\\\"Windows\\\",\\\"osVersion\\\":\\\"10.0.0\\\",\\\"browser_name\\\":\\\"Chrome\\\",\\\"browser_version\\\":\\\"145.0.0\\\",\\\"os_name\\\":\\\"Windows\\\",\\\"os_version\\\":\\\"10.0.0\\\"},\\\"hashed_sdk_key_used\\\":\\\"2168494430\\\",\\\"can_record_session\\\":true,\\\"recording_blocked\\\":false,\\\"session_recording_rate\\\":1,\\\"param_stores\\\":{\\\"3343801\\\":{\\\"AI_USAGE_LIMITS\\\":{\\\"name\\\":\\\"AI_USAGE_LIMITS\\\",\\\"ref_type\\\":\\\"layer\\\",\\\"param_type\\\":\\\"object\\\",\\\"layer_name\\\":\\\"1987365622\\\",\\\"param_name\\\":\\\"ai_usage_limits\\\"},\\\"AUTHORIZATION_HOLD_PERCENT\\\":{\\\"name\\\":\\\"AUTHORIZATION_HOLD_PERCENT\\\",\\\"ref_type\\\":\\\"experiment\\\",\\\"param_type\\\":\\\"number\\\",\\\"experiment_name\\\":\\\"2268702411\\\",\\\"param_name\\\":\\\"AUTHORIZATION_HOLD_PERCENT\\\"},\\\"WELCOME_OFFER_PARAMS\\\":{\\\"name\\\":\\\"WELCOME_OFFER_PARAMS\\\",\\\"ref_type\\\":\\\"layer\\\",\\\"param_type\\\":\\\"object\\\",\\\"layer_name\\\":\\\"1987365622\\\",\\\"param_name\\\":\\\"welcome_offer_params\\\"},\\\"PAYWALL_PARAMS\\\":{\\\"name\\\":\\\"PAYWALL_PARAMS\\\",\\\"ref_type\\\":\\\"layer\\\",\\\"param_type\\\":\\\"object\\\",\\\"layer_name\\\":\\\"1987365622\\\",\\\"param_name\\\":\\\"paywall_popup\\\"},\\\"DISCOUNTED_WELCOME_OFFERS\\\":{\\\"name\\\":\\\"DISCOUNTED_WELCOME_OFFERS\\\",\\\"ref_type\\\":\\\"experiment\\\",\\\"param_type\\\":\\\"array\\\",\\\"experiment_name\\\":\\\"3207374227\\\",\\\"param_name\\\":\\\"discount_welcome_offers\\\"},\\\"RESUBSCRIBE_OFFERS\\\":{\\\"name\\\":\\\"RESUBSCRIBE_OFFERS\\\",\\\"ref_type\\\":\\\"experiment\\\",\\\"param_type\\\":\\\"array\\\",\\\"experiment_name\\\":\\\"4192662111\\\",\\\"param_name\\\":\\\"resubscribe_offers\\\"},\\\"PAYWALL_SECONDARY_DISCOUNT_OFFER\\\":{\\\"name\\\":\\\"PAYWALL_SECONDARY_DISCOUNT_OFFER\\\",\\\"ref_type\\\":\\\"experiment\\\",\\\"param_type\\\":\\\"object\\\",\\\"experiment_name\\\":\\\"3822608008\\\",\\\"param_name\\\":\\\"paywall_secondary_discount_offers\\\"},\\\"INVITE_SHARE_MONTHS\\\":{\\\"name\\\":\\\"INVITE_SHARE_MONTHS\\\",\\\"ref_type\\\":\\\"experiment\\\",\\\"param_type\\\":\\\"number\\\",\\\"experiment_name\\\":\\\"2269717175\\\",\\\"param_name\\\":\\\"Invite Share Subscription Months\\\"},\\\"EXAM_HIGHER_PRICE_VARIANT\\\":{\\\"name\\\":\\\"EXAM_HIGHER_PRICE_VARIANT\\\",\\\"ref_type\\\":\\\"experiment\\\",\\\"param_type\\\":\\\"number\\\",\\\"experiment_name\\\":\\\"868311801\\\",\\\"param_name\\\":\\\"exam_higher_price_variant\\\"}}},\\\"full_checksum\\\":\\\"2930294562\\\"}\",\"receivedAt\":1774266947112,\"stableID\":\"7db338df-ad0e-4e19-9a85-66029a18d091\",\"fullUserHash\":\"3150500699\"}"
+        },
+        {
+          "name": "__mpq_34142dcacfcd7635e660802a2743e57c_pp",
+          "value": "[]"
+        },
+        {
+          "name": "statsig.session_id.4165852365",
+          "value": "{\"sessionID\":\"3bc5624b-bd1e-473a-a220-36e6796147db\",\"startTime\":1774266946287,\"lastUpdate\":1774266947486}"
+        },
+        {
+          "name": "viewerIdv2",
+          "value": "10b82559-a2d1-474c-a58c-bddb953b9ab8"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "bWY5dnMzZHlvcG90"
+        }
+      ]
+    }
+  ]
+}

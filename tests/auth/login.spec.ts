@@ -1,19 +1,18 @@
 import { test, expect } from '@playwright/test';
 import { TEST_USERS } from '../../constants/config';
 import { LandingPage } from '../../pages/landing.page';
-import { BasePage } from '../../pages/base.page';
+import { LoginModal } from '../../pages/components/login.modal';
 
 test.describe('Authentication Tests', () => {
-    let landingPage: LandingPage;
-    
+    let loginModal: LoginModal;
+
     test.beforeEach(async ({ page }) => {
-        const basePage = new BasePage(page);
-        landingPage = await basePage.navigateToLandingPage();
+        const landingPage = new LandingPage(page);
+        await landingPage.open();
+        loginModal = await landingPage.clickLogin();
     });
 
     test('should successfully login with valid credentials', async () => {
-        const loginModal = await landingPage.clickLogin();
-        await loginModal.login(TEST_USERS.validUser.email, TEST_USERS.validUser.password); 
+        await loginModal.login(TEST_USERS.validUser.email, TEST_USERS.validUser.password);
     });
-
 });
