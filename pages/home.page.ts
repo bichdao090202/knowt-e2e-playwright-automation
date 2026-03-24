@@ -14,5 +14,5 @@ export class HomePage {
 
   async goto(url: string) {
     await this.page.goto(url);
-}
+  }
 }

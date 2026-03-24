@@ -1,5 +1,6 @@
 import { Locator, Page } from "@playwright/test";
 import { CreateFlashcardModel } from './components/create-flashcard.model';
+import { ViewCollectionPage } from "./view-collection.page";
 
 export class MaterialsPage {
     readonly page: Page;
@@ -13,10 +14,11 @@ export class MaterialsPage {
 
     }
 
-    async clickCardByIndex(index: number) {
+    async clickCollectionByIndex(index: number) {
         const card = this.cards.nth(index);
         await card.scrollIntoViewIfNeeded();
         await card.click();
+        return new ViewCollectionPage(this.page);
     }
 
     async clickCreateButton() {
