@@ -45,10 +45,11 @@ export default defineConfig({
     },
     {
       name: 'chromium',
+      // testIgnore: /tests\/auth\/login\.spec\.ts/,
       use: {
         ...devices["Desktop Chrome"],
         channel: "chrome",
-        storageState: "storageState.json",
+        // storageState: "storageState.json",
       },
       // dependencies: ["setup"],
     },

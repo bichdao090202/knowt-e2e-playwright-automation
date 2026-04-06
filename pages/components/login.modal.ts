@@ -7,6 +7,7 @@ export class LoginModal {
   readonly passwordInput: Locator;
   readonly signInButton: Locator;
   readonly errorMessage: Locator;
+  readonly homePageIcon: Locator;
 
   constructor(page: Page) {
     this.page = page;
@@ -14,6 +15,7 @@ export class LoginModal {
     this.passwordInput = page.getByRole('textbox', { name: 'Password' })
     this.signInButton = page.getByRole('button', { name: 'Log in' })
     this.errorMessage = page.locator('[data-testid="error-message"]');
+    this.homePageIcon = page.getByRole('img', { name: 'knowt' });
   }
 
   async login(email: string, password: string): Promise<HomePage> {

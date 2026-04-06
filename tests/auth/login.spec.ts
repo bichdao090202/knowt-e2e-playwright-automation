@@ -14,5 +14,6 @@ test.describe('Authentication Tests', () => {
 
     test('should successfully login with valid credentials', async () => {
         await loginModal.login(TEST_USERS.validUser.email, TEST_USERS.validUser.password);
+        await expect(loginModal.homePageIcon.first()).toBeVisible();
     });
 });

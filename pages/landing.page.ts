@@ -13,7 +13,6 @@ export class LandingPage {
 
   async open(): Promise<void> {
     await this.page.goto(CONFIG.baseUrl);
-    // await this.page.waitForLoadState('networkidle');
   }
 
   async clickLogin(): Promise<LoginModal> {
